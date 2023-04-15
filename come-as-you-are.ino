@@ -1,6 +1,6 @@
 int piezoPin = 7; // digital pin for speaker
 
-int speed=90; // speed of melody
+int speed=90; // melody speed
 
 #include "pitches.h" // library where defined notes requency
 
